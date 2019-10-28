@@ -2,7 +2,7 @@
   "name": "tenantcloud/wkhtmltopdf",
   "description": "The wkhtmltopdf binaries for OSX and Ubuntu Xenial, Bionic.",
   "keywords": ["pdf", "wkhtmltopdf", "binary"],
-  "license": "LGPL Version 3",
+  "license": "MIT",
   "homepage": "https://github.com/tenantcloud/wkhtmltopdf",
   "authors": [
     {
