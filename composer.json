@@ -1,0 +1,24 @@
+{
+  "name": "tenantcloud/wkhtmltopdf",
+  "description": "The wkhtmltopdf binaries for OSX and Ubuntu Xenial, Bionic.",
+  "keywords": ["pdf", "wkhtmltopdf", "binary"],
+  "license": "LGPL Version 3",
+  "homepage": "https://github.com/tenantcloud/wkhtmltopdf",
+  "authors": [
+    {
+      "name": "Ashish Kulkarni",
+      "email": "ashish@kulkarni.dev"
+    },
+    {
+      "name": "TenantCloud",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "stable",
+  "bin": [
+    "binaries/0.12.5/wkhtmltopdf-amd64-osx",
+    "binaries/0.12.5/wkhtmltopdf-linux-xenial-amd64",
+    "binaries/0.12.5/wkhtmltopdf-linux-bionic-amd64"
+  ],
+  "require": {}
+}

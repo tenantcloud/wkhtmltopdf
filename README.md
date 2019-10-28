@@ -1,1 +1,1 @@
-# wkhtmltopdf
+# wkhtmltopdf binaries
