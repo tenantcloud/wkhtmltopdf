@@ -16,9 +16,9 @@
   ],
   "minimum-stability": "stable",
   "bin": [
-    "binaries/0.12.5/wkhtmltopdf-amd64-osx",
-    "binaries/0.12.5/wkhtmltopdf-linux-xenial-amd64",
-    "binaries/0.12.5/wkhtmltopdf-linux-bionic-amd64"
+    "binaries/wkhtmltopdf-amd64-osx",
+    "binaries/wkhtmltopdf-linux-xenial-amd64",
+    "binaries/wkhtmltopdf-linux-bionic-amd64"
   ],
   "require": {}
 }
