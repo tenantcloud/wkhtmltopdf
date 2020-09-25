@@ -1,6 +1,6 @@
 {
   "name": "tenantcloud/wkhtmltopdf",
-  "description": "The wkhtmltopdf binaries for OSX and Ubuntu Bionic, Buster, Focal and Apline Edge.",
+  "description": "The wkhtmltopdf binaries for OSX and Ubuntu Bionic, Buster, Focal and Apline 3.13.0",
   "keywords": ["pdf", "wkhtmltopdf", "binary"],
   "license": "MIT",
   "homepage": "https://github.com/tenantcloud/wkhtmltopdf",
@@ -16,11 +16,11 @@
   ],
   "minimum-stability": "stable",
   "bin": [
-    "binaries/amd64/darwin/wkhtmltopdf-osx",
-    "binaries/amd64/linux/ubuntu/wkhtmltopdf-bionic",
-    "binaries/amd64/linux/ubuntu/wkhtmltopdf-buster",
-    "binaries/amd64/linux/ubuntu/wkhtmltopdf-focal",
-    "binaries/amd64/linux/alpine/wkhtmltopdf-edge"
+    "binaries/amd64/wkhtmltopdf_darwin_osx",
+    "binaries/amd64/wkhtmltopdf_0.12.5_linux_ubuntu_bionic",
+    "binaries/amd64/wkhtmltopdf_0.12.5_linux_ubuntu_buster",
+    "binaries/amd64/wkhtmltopdf_0.12.5_linux_ubuntu_focal",
+    "binaries/amd64/wkhtmltopdf_0.12.5_linux_alpine_3.13.0"
   ],
   "require": {}
 }
