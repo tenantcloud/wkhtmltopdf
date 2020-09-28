@@ -16,7 +16,7 @@
   ],
   "minimum-stability": "stable",
   "bin": [
-    "binaries/amd64/wkhtmltopdf_darwin_osx",
+    "binaries/amd64/wkhtmltopdf_0.12.5_darwin_osx",
     "binaries/amd64/wkhtmltopdf_0.12.5_linux_ubuntu_bionic",
     "binaries/amd64/wkhtmltopdf_0.12.5_linux_ubuntu_buster",
     "binaries/amd64/wkhtmltopdf_0.12.5_linux_ubuntu_focal",
